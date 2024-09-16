@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ItzAngry
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning c++ basics
+- 🌱 I’m currently learning c++ basics and javascript basics
 - 📫 How to reach me: itzangry on discord
